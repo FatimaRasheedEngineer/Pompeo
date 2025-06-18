@@ -1062,12 +1062,12 @@ margin-top: 3em;
 }
 .photo{
   margin-top: -4em;
-  margin-left:2em;
+  margin-left:1em;
   width: 50%;
   animation: left .6s forwards;
   animation-delay: 1s;
   opacity: 0;
-  align-items: center;
+
 }
 @keyframes left {
   0%{
@@ -1091,6 +1091,11 @@ width: 80vw;
   position:relative;
   margin-left: 4.5em;
   margin-top: -15em;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-self: center;
+  align-items: center;
 }
 .details{
   width: 90vw;
@@ -1162,7 +1167,7 @@ width: 80vw;
 }
 .photo2{
   margin-top: 2em;
-  margin-left: 2.5em;
+  margin-left: 2em;
   width: 50%;
   animation:right.6s forwards;
   animation-delay: 1s;
