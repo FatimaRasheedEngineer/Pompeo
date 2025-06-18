@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/FatimaRasheedEngineer/Pompeo/static/css/main.37736029.css",
-    "main.js": "/FatimaRasheedEngineer/Pompeo/static/js/main.d73e178c.js",
-    "static/js/453.c1668db1.chunk.js": "/FatimaRasheedEngineer/Pompeo/static/js/453.c1668db1.chunk.js",
-    "static/media/blakgold.png": "/FatimaRasheedEngineer/Pompeo/static/media/blakgold.e515d103cafcc48c2233.png",
-    "static/media/heroBG.jpeg": "/FatimaRasheedEngineer/Pompeo/static/media/heroBG.72051d3cd7f340ba7da5.jpeg",
-    "static/media/heropic.png": "/FatimaRasheedEngineer/Pompeo/static/media/heropic.b25922b3dcb67c2e5aeb.png",
-    "static/media/orange.png": "/FatimaRasheedEngineer/Pompeo/static/media/orange.37e134d24a273ff1e4aa.png",
-    "static/media/platesSVG.png": "/FatimaRasheedEngineer/Pompeo/static/media/platesSVG.0d09e754375b998b0684.png",
-    "static/media/cart.svg": "/FatimaRasheedEngineer/Pompeo/static/media/cart.8aa0168a0d4a119ce53a48e9b82abd34.svg",
-    "index.html": "/FatimaRasheedEngineer/Pompeo/index.html",
-    "main.37736029.css.map": "/FatimaRasheedEngineer/Pompeo/static/css/main.37736029.css.map",
-    "main.d73e178c.js.map": "/FatimaRasheedEngineer/Pompeo/static/js/main.d73e178c.js.map",
-    "453.c1668db1.chunk.js.map": "/FatimaRasheedEngineer/Pompeo/static/js/453.c1668db1.chunk.js.map"
+    "main.css": "/Pompeo/static/css/main.632bc61f.css",
+    "main.js": "/Pompeo/static/js/main.b82d0a19.js",
+    "static/js/453.c1668db1.chunk.js": "/Pompeo/static/js/453.c1668db1.chunk.js",
+    "static/media/blakgold.png": "/Pompeo/static/media/blakgold.e515d103cafcc48c2233.png",
+    "static/media/heroBG.jpeg": "/Pompeo/static/media/heroBG.72051d3cd7f340ba7da5.jpeg",
+    "static/media/heropic.png": "/Pompeo/static/media/heropic.b25922b3dcb67c2e5aeb.png",
+    "static/media/orange.png": "/Pompeo/static/media/orange.37e134d24a273ff1e4aa.png",
+    "static/media/platesSVG.png": "/Pompeo/static/media/platesSVG.0d09e754375b998b0684.png",
+    "static/media/cart.svg": "/Pompeo/static/media/cart.8aa0168a0d4a119ce53a48e9b82abd34.svg",
+    "index.html": "/Pompeo/index.html",
+    "main.632bc61f.css.map": "/Pompeo/static/css/main.632bc61f.css.map",
+    "main.b82d0a19.js.map": "/Pompeo/static/js/main.b82d0a19.js.map",
+    "453.c1668db1.chunk.js.map": "/Pompeo/static/js/453.c1668db1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37736029.css",
-    "static/js/main.d73e178c.js"
+    "static/css/main.632bc61f.css",
+    "static/js/main.b82d0a19.js"
   ]
 }
