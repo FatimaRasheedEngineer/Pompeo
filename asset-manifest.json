@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Pompeo/static/css/main.bd6cc672.css",
+    "main.css": "/Pompeo/static/css/main.4b7eb3c0.css",
     "main.js": "/Pompeo/static/js/main.b82d0a19.js",
     "static/js/453.c1668db1.chunk.js": "/Pompeo/static/js/453.c1668db1.chunk.js",
     "static/media/blakgold.png": "/Pompeo/static/media/blakgold.e515d103cafcc48c2233.png",
@@ -10,12 +10,12 @@
     "static/media/platesSVG.png": "/Pompeo/static/media/platesSVG.0d09e754375b998b0684.png",
     "static/media/cart.svg": "/Pompeo/static/media/cart.8aa0168a0d4a119ce53a48e9b82abd34.svg",
     "index.html": "/Pompeo/index.html",
-    "main.bd6cc672.css.map": "/Pompeo/static/css/main.bd6cc672.css.map",
+    "main.4b7eb3c0.css.map": "/Pompeo/static/css/main.4b7eb3c0.css.map",
     "main.b82d0a19.js.map": "/Pompeo/static/js/main.b82d0a19.js.map",
     "453.c1668db1.chunk.js.map": "/Pompeo/static/js/453.c1668db1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd6cc672.css",
+    "static/css/main.4b7eb3c0.css",
     "static/js/main.b82d0a19.js"
   ]
 }
